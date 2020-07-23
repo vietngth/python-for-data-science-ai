@@ -1,3 +1,1 @@
-<!-- @format -->
-
-## Course description: https://www.coursera.org/learn/python-for-applied-data-science-ai
+## [IBM - Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai)
